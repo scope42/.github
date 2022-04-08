@@ -1,3 +1,3 @@
 <img src="https://raw.githubusercontent.com/scope42/scope42/main/public/logo.svg" width="100%">
 
-![Twitter Follow](https://img.shields.io/twitter/follow/get_scope42?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/get_scope42?style=social)](https://twitter.com/get_scope42)
